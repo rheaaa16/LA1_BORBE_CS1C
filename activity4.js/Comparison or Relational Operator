@@ -1,0 +1,11 @@
+let firstFavNum = 8;
+let secondFavNum = 16;
+
+console.log (firstFavNum > secondFavNum);
+console.log (firstFavNum < secondFavNum);
+console.log (firstFavNum >= secondFavNum);
+console.log (firstFavNum <= secondFavNum);
+console.log (firstFavNum === secondFavNum);
+console.log (firstFavNum == secondFavNum);
+console.log (firstFavNum !== secondFavNum);
+console.log (firstFavNum != secondFavNum);
